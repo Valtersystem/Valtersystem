@@ -16,5 +16,5 @@
   <img align="center" alt="valter-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="valter-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
    
-  <img align="right" alt="Valter-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/Valtersystem/Valtersystem/7f5e1e37b56a47e01ea73a7f3729a85f799aa950/images/pic.jpeg">
+  <img align="right" alt="Valter-pic" height="150" style="border-radius:50px;" src="https://github.com/Valtersystem/Valtersystem/blob/main/images/7a2a8dce.png?raw=true">
 </div>
