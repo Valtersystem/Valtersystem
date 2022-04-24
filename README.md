@@ -16,5 +16,16 @@
   <img align="center" alt="valter-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="valter-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
    
-  <img align="right" alt="Valter-pic" height="150" style="border-radius:50px;" src="https://github.com/Valtersystem/Valtersystem/blob/main/images/7a2a8dce.png?raw=true">
+  <img align="right" alt="Valter-pic" height="150" style="border-radius:40%;" src="https://github.com/Valtersystem/Valtersystem/blob/main/images/preview.png?raw=true">
+</div>
+
+ <hr>
+  
+<div> 
+  <a href="https://www.youtube.com/channel/UCAKFd5vIHEIaAfLkFORgpVg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dev_system/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/valterantonio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/valtersystem/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
