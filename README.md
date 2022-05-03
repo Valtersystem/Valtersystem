@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Valter Santos 
 
-- 🧑🏿‍💻 Hoje trabalho como Desenvolvedor full stack junior 
-- ✍️ Estundando VueJS, JavaScript, NuxtJs, Strapi, CSS Avançado
+- 🧑🏿‍💻 Desenvolvedor Jr 
+- ✍️ Estudando VueJS, JavaScript, NuxtJs, Strapi, CSS Avançado
 
 <div align="center">
   <a href="https://github.com/Valtersystem">
