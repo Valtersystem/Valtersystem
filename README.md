@@ -1,13 +1,31 @@
-Olá! Eu sou Valter Santos, um programador web entusiasta e apaixonado por tecnologia. Com experiência em desenvolvimento web e uma mente inquisitiva, estou constantemente buscando soluções criativas para os desafios que encontro.
+## Olá! Eu sou o Valter Santos 
 
-Minha paixão pelo mundo da programação começou há algum tempo, e desde então tenho explorado diferentes linguagens e tecnologias para aprimorar minhas habilidades. Sou especializado em HTML, CSS, JS, VUEJS, REACT[...] mas estou sempre aberto a aprender coisas novas e me manter atualizado com as últimas tendências e práticas recomendadas.
+- 🧑🏿‍💻 Desenvolvedor Jr 
+- ✍️ Estudando VueJS, JavaScript, NuxtJs, Strapi, CSS Avançado
 
-Acredito que a programação é uma forma de arte que permite transformar ideias em realidade. Combinando minha criatividade e habilidades técnicas, trabalho incansavelmente para desenvolver aplicativos da web eficientes, intuitivos e visualmente atraentes. Tenho experiência em desenvolvimento front-end, back-end e em criação de APIs, o que me permite abordar projetos de forma abrangente e oferecer soluções completas.
+<div align="center">
+  <a href="https://github.com/Valtersystem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valtersystem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtersystem&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="valter-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Valter-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="valter-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="valter-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="valter-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
+   
+  <img align="right" alt="Valter-pic" height="150" style="border-radius:40%;" src="https://github.com/Valtersystem/Valtersystem/blob/main/images/preview.png?raw=true">
+</div>
 
-Além de ser um desenvolvedor, sou um solucionador de problemas de coração. Gosto de enfrentar desafios complexos e encontrar soluções inovadoras. Acredito que a tecnologia tem o poder de melhorar a vida das pessoas e resolver problemas do mundo real. Portanto, estou sempre motivado a usar minhas habilidades para criar soluções práticas e impactantes.
-
-Fora do mundo do desenvolvimento, adoro explorar novas tecnologias, acompanhar blogs e podcasts sobre programação e participar de eventos e conferências para me manter atualizado. Também gosto de compartilhar meus conhecimentos com a comunidade e aprender com outros desenvolvedores.
-
-Se você está procurando um desenvolvedor web entusiasmado, motivado e orientado para resultados, estou pronto para colaborar em projetos desafiadores. Vamos trabalhar juntos para transformar ideias em realidade e criar experiências digitais excepcionais!
-
-Fique à vontade para entrar em contato comigo através deste perfil ou por meio das minhas redes sociais. Vamos criar coisas incríveis juntos!
+ <hr>
+  
+<div> 
+  <a href="https://www.youtube.com/channel/UCAKFd5vIHEIaAfLkFORgpVg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dev_system/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/valterantonio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+ <div>
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="valterantonio" data-version="v1">
