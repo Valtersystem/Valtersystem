@@ -10,7 +10,9 @@
 ## 🚀 My Skills
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vuejs,tailwind,laravel,mysql,git,vscode,wordpress	" />
+    <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vuejs,tailwind,laravel,mysql,git,vscode,wordpress" />
+    </a>
 </p>
 
 
