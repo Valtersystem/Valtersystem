@@ -18,8 +18,8 @@
 
 ### 📊 Statistics
 
-<a href="https://github.com/valtersystem" title="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valtersystem&theme=dracula&hide_langs_below=1" alt=""/>
+<a href="https://github.com/Valtersystem" title="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtersystem&theme=dracula&hide_langs_below=1" alt=""/>
 </a>
 
 <br>
